@@ -1,0 +1,30 @@
+#container{
+    display: flex;
+}
+
+#container > div{
+    flex: 1;
+}
+
+#container2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 6em 6em;
+    gap: 3em;
+}
+
+p {
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.positioned{
+    position: relative;
+    background: rgba(225, 84,104, .3);
+    border:  2px solid black;
+    top: 30px;
+    left: 30px;
+}
