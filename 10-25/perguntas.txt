@@ -1,0 +1,12 @@
+1- Sem definições de linhas
+
+2- Como definir em notação de fração
+
+3- É possível fazer responsividade vertical?
+
+4- Colocar o código no vscode
+
+5- Usar media queries para definir quantidades diferentes de colunas
+
+
+OBS - Mobile first 
