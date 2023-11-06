@@ -1,0 +1,7 @@
+java script programação async
+
+https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous/Introducing
+
+
+
+async / await
